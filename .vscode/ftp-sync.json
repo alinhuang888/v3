@@ -2,7 +2,7 @@
     "remotePath": "/root/my-app/src",
     "host": "112.74.75.182",
     "username": "root",
-    "password": "123myfabao!",
+    "password": "123myfabaoA",
     "port": 22,
     "secure": false,
     "protocol": "sftp",
